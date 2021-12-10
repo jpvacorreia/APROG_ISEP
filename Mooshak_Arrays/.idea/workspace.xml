@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="507c092f-fb05-4c05-9744-24d7d238bf13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TFSd3zNgzjzmzPqSvYUYpIKsob" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mooshak_essencial" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.ExJ_Top_3">
+    <configuration name="ExB_Menores_Elementos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExB_Menores_Elementos" />
+      <module name="Mooshak_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExE_Estatisticas_Vencimentos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExE_Estatisticas_Vencimentos" />
+      <module name="Mooshak_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExH_Rodar_Sequencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExH_Rodar_Sequencia" />
+      <module name="Mooshak_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExI_Condominio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExI_Condominio" />
+      <module name="Mooshak_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExJ_Top_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExJ_Top_3" />
+      <module name="Mooshak_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExJ_Top_3" />
+        <item itemvalue="Application.ExB_Menores_Elementos" />
+        <item itemvalue="Application.ExE_Estatisticas_Vencimentos" />
+        <item itemvalue="Application.ExH_Rodar_Sequencia" />
+        <item itemvalue="Application.ExI_Condominio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="507c092f-fb05-4c05-9744-24d7d238bf13" name="Default Changelist" comment="" />
+      <created>1573054434365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573054434365</updated>
+      <workItem from="1578867271451" duration="5597000" />
+      <workItem from="1578930570384" duration="1425000" />
+      <workItem from="1578947643798" duration="2238000" />
+      <workItem from="1578992544593" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="124" key="FileChooserDialogImpl" timestamp="1578937749861">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="462" y="124" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1578937749861" />
+    <state width="1322" height="215" key="GridCell.Tab.0.bottom" timestamp="1578910243737">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578910243737" />
+    <state width="1322" height="215" key="GridCell.Tab.0.center" timestamp="1578910243737">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578910243737" />
+    <state width="1322" height="215" key="GridCell.Tab.0.left" timestamp="1578910243737">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578910243737" />
+    <state width="1322" height="215" key="GridCell.Tab.0.right" timestamp="1578910243737">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578910243737" />
+    <state width="1322" height="215" key="GridCell.Tab.1.bottom" timestamp="1578910243737">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578910243737" />
+    <state width="1322" height="215" key="GridCell.Tab.1.center" timestamp="1578910243737">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1578910243737" />
+    <state width="1322" height="215" key="GridCell.Tab.1.left" timestamp="1578910243737">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1578910243737" />
+    <state width="1322" height="215" key="GridCell.Tab.1.right" timestamp="1578910243737">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1578910243737" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1575971428519">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1575971428519" />
+    <state x="65" y="3" key="new project wizard" timestamp="1575971473590">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="3" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1575971473590" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExC_Sequencia_Crescente.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExI_Condominio.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
